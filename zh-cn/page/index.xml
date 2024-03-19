@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on 雷哥的部落格</title>
-        <link>https://example.com/zh-cn/page/</link>
+        <link>https://solomon12354.github.io/zh-cn/page/</link>
         <description>Recent content in Pages on 雷哥的部落格</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Shao-Lei Wang</copyright><atom:link href="https://example.com/zh-cn/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Shao-Lei Wang</copyright><atom:link href="https://solomon12354.github.io/zh-cn/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>關於</title>
-        <link>https://example.com/zh-cn/%E9%97%9C%E6%96%BC/</link>
+        <link>https://solomon12354.github.io/zh-cn/%E9%97%9C%E6%96%BC/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/zh-cn/%E9%97%9C%E6%96%BC/</guid>
+        <guid>https://solomon12354.github.io/zh-cn/%E9%97%9C%E6%96%BC/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
         </item>
