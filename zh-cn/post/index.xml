@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on 雷哥的部落格</title>
-        <link>https://solomon12354.github.io/zh-cn/post/</link>
+        <link>http://localhost:1313/zh-cn/post/</link>
         <description>Recent content in Posts on 雷哥的部落格</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Shao-Lei Wang</copyright>
-        <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://solomon12354.github.io/zh-cn/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>排球女孩</title>
-        <link>https://solomon12354.github.io/zh-cn/p/%E6%8E%92%E7%90%83%E5%A5%B3%E5%AD%A9/</link>
+        <link>http://localhost:1313/zh-cn/p/%E6%8E%92%E7%90%83%E5%A5%B3%E5%AD%A9/</link>
         <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://solomon12354.github.io/zh-cn/p/%E6%8E%92%E7%90%83%E5%A5%B3%E5%AD%A9/</guid>
-        <description>&lt;img src="https://solomon12354.github.io/p/%E6%8E%92%E7%90%83%E5%A5%B3%E5%AD%A9/volley.png" alt="Featured image of post 排球女孩" /&gt;&lt;p&gt;排球女孩&lt;/p&gt;
+        <guid>http://localhost:1313/zh-cn/p/%E6%8E%92%E7%90%83%E5%A5%B3%E5%AD%A9/</guid>
+        <description>&lt;img src="http://localhost:1313/p/%E6%8E%92%E7%90%83%E5%A5%B3%E5%AD%A9/volley.png" alt="Featured image of post 排球女孩" /&gt;&lt;p&gt;排球女孩&lt;/p&gt;
 &lt;p&gt;(前奏)
 C Am F G C C &lt;br&gt;
 &lt;br&gt;

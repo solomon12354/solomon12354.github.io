@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on 雷哥的部落格</title>
-        <link>https://solomon12354.github.io/zh-cn/tags/</link>
+        <link>http://localhost:1313/zh-cn/tags/</link>
         <description>Recent content in Tags on 雷哥的部落格</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Shao-Lei Wang</copyright>
-        <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://solomon12354.github.io/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Girl</title>
-        <link>https://solomon12354.github.io/zh-cn/tags/girl/</link>
+        <link>http://localhost:1313/zh-cn/tags/girl/</link>
         <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://solomon12354.github.io/zh-cn/tags/girl/</guid>
+        <guid>http://localhost:1313/zh-cn/tags/girl/</guid>
         <description></description>
         </item>
         <item>
         <title>Volleyball</title>
-        <link>https://solomon12354.github.io/zh-cn/tags/volleyball/</link>
+        <link>http://localhost:1313/zh-cn/tags/volleyball/</link>
         <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://solomon12354.github.io/zh-cn/tags/volleyball/</guid>
+        <guid>http://localhost:1313/zh-cn/tags/volleyball/</guid>
         <description></description>
         </item>
         
