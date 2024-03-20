@@ -106,38 +106,6 @@
                 href="http://localhost:1313/zh-cn/p/%E6%8E%92%E7%90%83%E5%A5%B3%E5%AD%A9/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-cn/%E5%82%99%E4%BB%BD/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/zh-cn/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/categories/test/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/zh-cn/%E5%82%99%E4%BB%BD/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/%E5%82%99%E4%BB%BD/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/%E5%82%99%E4%BB%BD/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/zh-cn/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/zh-cn/page/</loc>
     <xhtml:link
                 rel="alternate"

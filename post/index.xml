@@ -7,7 +7,22 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Shao-Lei Wang</copyright>
-        <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>EternalBlue</title>
+        <link>http://localhost:1313/p/eternalblue/</link>
+        <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/eternalblue/</guid>
+        <description>&lt;img src="http://localhost:1313/p/eternalblue/etbluecover.png" alt="Featured image of post EternalBlue" /&gt;&lt;h2 id=&#34;cve-2017-0143&#34;&gt;CVE 2017-0143&lt;/h2&gt;
+&lt;h2 id=&#34;ms17-010&#34;&gt;MS17-010&lt;/h2&gt;
+&lt;p&gt;這是一個Windows server的漏洞   &lt;br&gt;
+在發送SMB封包之後，造成緩衝區溢位，就能夠注入惡意程式碼並進行運作    &lt;br&gt;
+像是知名勒索病毒wannacry就是因為這個漏洞而產生的。   &lt;br&gt;
+我利用Metasploit滲透工具對於這個漏洞進行實作。&lt;/p&gt;
+&lt;p&gt;以下是我的影片:&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/W0BTJdadfzA?si=EbdAFFsOuTN12KZ5&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+        </item>
+        <item>
         <title>Dirty Pipe</title>
         <link>http://localhost:1313/p/dirty-pipe/</link>
         <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
@@ -113,7 +128,9 @@ G                        D               
      G                 A       D&lt;br&gt;
 為我們的隊得分吧&amp;hellip;&amp;hellip;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;這個是我在大三的體育課時得到的靈感，當時的我想到的是想要寫一首關於排球女孩的歌曲，覺得這應該是每個打排球的人的回憶，每個人心中都有一位排球女孩，希望大家在聽這首歌曲的時候，可以想起一些美好的回憶。&lt;br&gt;&lt;/p&gt;
-&lt;img src = &#34;volley.png&#34; width = &#34;40%&#34;&gt;</description>
+&lt;img src = &#34;volley.png&#34; width = &#34;40%&#34;&gt;
+&lt;p&gt;以下是原曲:&lt;br&gt;&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/eIDUHwIO9UA?si=xsCG8DVLiAGd6W8E&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
         </item>
         
     </channel>
